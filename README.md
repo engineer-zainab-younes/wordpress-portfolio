@@ -3,13 +3,13 @@ A static export of my WordPress portfolio showcasing my projects, skills, and ex
 
 Live demo: [Visit My Portfolio] :
 
-https://khan-alasal.com/
-https://oureasygame.com/
-https://oegoutsourcing.com/
-https://equinikboutique.com/
-https://tablshipping.com/
-https://da3wa.online/
-https://suziespastry.com/
+https://khan-alasal.com/ <br>
+https://oureasygame.com/ <br>
+https://oegoutsourcing.com/ <br>
+https://equinikboutique.com/ <br>
+https://tablshipping.com/ <br>
+https://da3wa.online/ <br>
+https://suziespastry.com/ <br>
 https://rebornspas.com/
 
 
